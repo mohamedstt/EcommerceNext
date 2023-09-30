@@ -11,12 +11,6 @@ The challenge is to implement an e-commerce for the sale of mugs and t-shirts th
 - [x] Add and remove products from cart
 - [x] Checkout page
 
-## 📋 Requirements
-
-- Follow [this prototype](https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449)
-- Use Next.js and Typescript
-- Create components with styled-components
-- consume from the provided **GraphQL API**
 
 ## 🖥️ Installation
 
