@@ -1,5 +1,7 @@
 # Capputeeno
 
+![Prototype](capputeeno/src/img/prototype.png)
+
 # 🧠 About
 
 
